@@ -1,0 +1,6 @@
+[submodule "bnryapi"]
+	path = bnryapi
+	url = https://github.com/staddle/bnryapi
+[submodule "bnryvue"]
+	path = bnryvue
+	url = https://github.com/staddle/bnryvue
